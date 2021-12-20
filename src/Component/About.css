@@ -1,0 +1,25 @@
+
+/* .background{
+    background-color;
+} */
+.Experience{
+    border: 5px outset lightgrey;
+    background-color: white;    
+    text-align: center;
+}
+.Academic{
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border: 5px outset pink;
+    background-color: white;    
+    box-shadow: 10px 10px 5px   
+}
+.PersonalDetails{
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    border: 5px outset pink;
+    background-color: white;    
+    box-shadow: 10px 10px 5px   
+}
